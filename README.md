@@ -1,5 +1,9 @@
 # Test-assignment2-team8
 
+## Our Project!
+- A simple and easy to use Celcius to Fahrenheit converter
+---
+
 ## Links:
 
 [Google Meet Link](https://meet.google.com/qxf-kbsj-znp)
