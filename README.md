@@ -14,6 +14,8 @@
 
 [Figma Link](https://www.figma.com/files/project/30171167/Team-project?fuid=969893282186065214)
 
+[MVP](https://adaapp.github.io/Test-assignment2-team8/)
+
 ---
 
 ## Our team:
@@ -59,6 +61,11 @@ UI testing:
 
 
 3. UI testing feedback results:
+
+Question:
+![image](https://user-images.githubusercontent.com/79174597/116716333-8931d180-a9cf-11eb-9820-aae41792bb17.png)
+
+Answer:
 
 ![image](https://user-images.githubusercontent.com/79174597/116712021-52f25300-a9cb-11eb-81ec-4f26bafd53e1.png)
 
