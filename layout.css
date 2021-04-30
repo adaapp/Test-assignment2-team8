@@ -61,3 +61,12 @@ button {
     font-size: 5rem;
     border: 1px solid #666;
 }
+.Fahrenheit {
+    padding: 0.5rem;
+    border: 1px solid #666;
+}
+
+.Celsius {
+    padding: 0.5rem;
+    border: 1px solid #666;
+}
