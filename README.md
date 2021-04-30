@@ -34,5 +34,11 @@
 ---
 ## Work Progression:
 
+1. Inital Figma Design: 
+
+![image](https://user-images.githubusercontent.com/79174597/116711310-a3b57c00-a9ca-11eb-95fd-a5fe118449b5.png)
+
+2. HTML design:
+
 ![image](https://user-images.githubusercontent.com/79174597/116699471-85954f00-a9bd-11eb-8c31-cda79b4af314.png)
 
