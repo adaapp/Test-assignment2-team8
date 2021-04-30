@@ -97,7 +97,7 @@ Now the user can not add values such as 70.234 Celsius to find the Fahrenheit va
 # Tests
 <details>
 
- <summary>## Unit Tests</summary>
+ <summary>Unit Tests</summary>
 
 smoke test - 5+5 = 10 - initial check to see that test are working
 
