@@ -40,13 +40,13 @@ button {
     margin-left: 0.5rem;
     padding: 0.5rem;
     color: white;
-    background-color: #485f3b;
+    background-color: #8AB6CF;
     border-top: none;
     transition: background-color 0.2s;
 }
 
 .form__button:hover {
-    background-color: #1f5002;
+    background-color: #1e92d4;
 }
 
 .result {
