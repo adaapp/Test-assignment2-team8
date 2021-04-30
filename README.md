@@ -3,3 +3,4 @@ Testing that Yasameen has access to repository
 
 Yasameen | Amran | Jacob | Shenel
 --- | --- | ---| --- |
+Tech Consultant | Software Developer | Tech Consultant | Tech Consultant
