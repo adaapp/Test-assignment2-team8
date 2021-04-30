@@ -95,8 +95,9 @@ Now the user can not add values such as 70.234 Celsius to find the Fahrenheit va
 ---
 
 # Tests
+<details>
 
-## Unit Tests
+ <summary>## Unit Tests</summary>
 
 smoke test - 5+5 = 10 - initial check to see that test are working
 
@@ -111,4 +112,4 @@ there are 2 describe blocks one testing cel to far and one testing far to cel
 4. Makes sure an error is returned when the function is NaN e.g. user has inputted a string
 
 These 4 tests (as described above) are refactored for the next describe block and testing function: Fahrenheit to Celsius
-
+</details>
