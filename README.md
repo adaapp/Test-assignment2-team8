@@ -1,5 +1,7 @@
 # Test-assignment2-team8
-Testing that Yasameen has access to repository
+
+Join our team: https://github.com/adaapp/Test-assignment2-team8.git
+
 
 Yasameen | Amran | Jacob | Shenel
 --- | --- | ---| --- |
