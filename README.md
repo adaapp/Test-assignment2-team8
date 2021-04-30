@@ -20,12 +20,13 @@
 | --------------- | ------------------ | --------------- | --------------- |
 | Tech Consultant | Software Developer | Tech Consultant | Tech Consultant |
 
-##Collaboration Method:
-1. Google Collab 
-..*Google Chat
-..*Google Meet
-2. GitHub
-..*Repository 
+---
+
+## Collaboration Methods:
+
+1. Google Collab
+- Google Chat
+- Google Meet
+2. GitHub 
+- Repository
 3. Figma
-
-
