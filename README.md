@@ -30,3 +30,9 @@
 2. GitHub 
 - Repository
 3. Figma
+
+---
+Work Progression:
+
+![image](https://user-images.githubusercontent.com/79174597/116699471-85954f00-a9bd-11eb-8c31-cda79b4af314.png)
+
