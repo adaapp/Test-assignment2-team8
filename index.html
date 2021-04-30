@@ -33,22 +33,24 @@
 <script>
     const form = document.querySelector('.fahrenheitForm');
     const result = document.querySelector('.Fahrenheit');
-
+    result.style.display = 'none';
     form.addEventListener('submit', function(e) {
         e.preventDefault();
         var userInput = e.target[0].value;
         var fahren = celsiusToFahrenheit(userInput);
         result.textContent = fahren;
+        result.style.display = 'block';
     });
 
     const formCel = document.querySelector('.celsiusForm');
     const resultCel = document.querySelector('.Celsius');
-
+    resultCel.style.display = 'none';
     formCel.addEventListener('submit', function(e) {
         e.preventDefault();
         var userInput = e.target[0].value;
         var celsius = fahrenheitToCelsius(userInput);
         resultCel.textContent = celsius;
+        resultCel.style.display = 'block';
 });
 </script>
 </body>
