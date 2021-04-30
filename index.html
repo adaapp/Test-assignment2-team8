@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Encode Roman Numerals</title>
+    <link href="layout.css" rel="stylesheet">
+</head>
+
+<body>
+    <main class="container">
+    <h1>Celsius And Fahrenheit Converter </h1>
+    <form class="fahrenheitForm">
+        <label class="form" for="numeral">Celsius to Fahrenheit</label>
+        <div class="form__row">
+        <input class="form__input"id="numeral" type="number" placeholder="e.g. 42" required autofocus>
+        <button class="form__button" type="submit">To Fahrenheit!</button>
+        </div>
+    </form>
+    <div class="Fahrenheit"></div>
+    <form class="celsiusForm">
+        <label class="form" for="numeral">Fahrenheit to Celsius</label>
+        <div class="form__row">
+        <input class="form__input"id="numeral" type="number" placeholder="e.g. 42" required autofocus>
+        <button class="form__button" type="submit">To Celsius!</button>
+        </div>
+    </form>
+    <div class="Celsius"></div>
+    </main>
+<script src="index.js"></script>
+<script>
+    const form = document.querySelector('.fahrenheitForm');
+    const result = document.querySelector('.Fahrenheit');
+
+    form.addEventListener('submit', function(e) {
+        e.preventDefault();
+        var userInput = e.target[0].value;
+        var fahren = celsiusToFahrenheit(userInput);
+        result.textContent = fahren;
+    });
+
+    const formCel = document.querySelector('.celsiusForm');
+    const resultCel = document.querySelector('.Celsius');
+
+    formCel.addEventListener('submit', function(e) {
+        e.preventDefault();
+        var userInput = e.target[0].value;
+        var celsius = fahrenheitToCelsius(userInput);
+        resultCel.textContent = celsius;
+});
+</script>
+</body>
+</html>
