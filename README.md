@@ -11,8 +11,6 @@
 
 
 
-[Celcius and Fahrenheit Converter website](https://adaapp.github.io/Test-assignment2-team8/)
-
 [Google Meet](https://meet.google.com/qxf-kbsj-znp)
 
 [Github repository](https://github.com/adaapp/Test-assignment2-team8.git)
@@ -25,7 +23,7 @@
 
 ## *Our team:*
 
-| Yasameen        | Amran              | Jacob Lamb        | Shenel Birant        |
+| Yasameen Mazloom       | Amran Uddin             | Jacob Lamb        | Shenel Birant        |
 | --- | --- | --- | --- |
 | Tech Consultant | Software Developer | Tech Consultant | Tech Consultant |
 
