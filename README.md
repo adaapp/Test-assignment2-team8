@@ -116,3 +116,10 @@ These 4 tests (as described above) are refactored for the next describe block an
 </details>
 
 ---
+## Integration Tests and Continuous Integration:
+
+Continuous Integration is the practise of developers frequently committing and integrating their work to a main branch. This is usally done multiple times a day. An integration can be tested with a script and if it passes the branch can be merged. The integration testing is usually ran on a server such as Jenkins,Gitlab CI, BitBucket Pipelines, Github Actions, AWS CodePipeline among many others. We chose github actions for our CI of choice. The reason for this is our version control is hosted on github and using their continuous integration tools reduces work needed to create webhooks that automatically run when there is a commit or a pull request. It also means all our work is in one place. Along with github actions we also used github pages. This acts as our host for our website and a useful continuous development tool. Github uses the index.html file on the main branch for our website. This means whenever there is a merge to the main branch the changes will be deployed to the website. 
+
+### Integration Tests
+
+Whenever there is a pull request or commit to the main branch our pipeline is activated. It first builds an environment with the neccesary requirements to run the application. This includes node,npm and our packages. After the environment has been set our tests are ran.
