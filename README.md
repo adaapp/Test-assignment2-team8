@@ -95,6 +95,13 @@ Now the user can not add values such as 70.234 Celsius to find the Fahrenheit va
 
 ---
 
+# Accessibility and Performance Audit
+
+![Lighthouse1](https://user-images.githubusercontent.com/79159315/118361508-b790de80-b583-11eb-85f1-40b5981a2cec.png)
+![Lighthouse2](https://user-images.githubusercontent.com/79159315/118361526-cd060880-b583-11eb-88d1-dea3b22ade3b.png)
+
+---
+
 ## *Tests:*
 <details>
 
