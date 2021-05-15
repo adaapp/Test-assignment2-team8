@@ -122,4 +122,4 @@ Continuous Integration is the practise of developers frequently committing and i
 
 ### Integration Tests
 
-Whenever there is a pull request or commit to the main branch our pipeline is activated. It first builds an environment with the neccesary requirements to run the application. This includes node,npm and our packages. After the environment has been set our tests are ran.
+Whenever there is a pull request or commit to the main branch our pipeline is activated. It first builds an environment with the neccesary requirements to run the application. This includes node, npm and our packages. After the environment has been set our tests are ran.
