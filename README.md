@@ -97,11 +97,13 @@ Now the user can not add values such as 70.234 Celsius to find the Fahrenheit va
 
 # Accessibility and Performance Audit
 
-![Lighthouse1](https://user-images.githubusercontent.com/79159315/118361508-b790de80-b583-11eb-85f1-40b5981a2cec.png)
-![Lighthouse2](https://user-images.githubusercontent.com/79159315/118361526-cd060880-b583-11eb-88d1-dea3b22ade3b.png)
+![Lighthouse 1](https://user-images.githubusercontent.com/79159315/118361508-b790de80-b583-11eb-85f1-40b5981a2cec.png)
+![Lighthouse 2](https://user-images.githubusercontent.com/79159315/118361526-cd060880-b583-11eb-88d1-dea3b22ade3b.png)
 ![Accessibility(80)](https://user-images.githubusercontent.com/79159315/118361527-ce373580-b583-11eb-9c29-aa692a39f9f2.png)
 ![Best Practices(100) SEO(91)](https://user-images.githubusercontent.com/79159315/118361528-cf686280-b583-11eb-8232-a2167bb25628.png)
-
+![iPhone X](https://user-images.githubusercontent.com/79159315/118361529-d000f900-b583-11eb-969e-7593ed93e0a0.png)
+![iPad Pro](https://user-images.githubusercontent.com/79159315/118361531-d1cabc80-b583-11eb-99b9-2f3634311bbc.png)
+![Pixel 2](https://user-images.githubusercontent.com/79159315/118361534-d3948000-b583-11eb-8bc9-0083ce37103e.png)
 ---
 
 ## *Tests:*
