@@ -26,7 +26,7 @@ These are the main aspects of this project which relates to the steps system dev
 
 
 
-[Google Meet](https://meet.google.com/qxf-kbsj-znp)
+[Google Meet](https://meet.google.com/qxf-kbsj-znp) 
 
 [Github repository](https://github.com/adaapp/Test-assignment2-team8.git)
 
