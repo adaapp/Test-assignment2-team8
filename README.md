@@ -125,3 +125,13 @@ The purpose of an integration test is to dicover errors of the interaction betwe
 Whenever there is a pull request or commit to the main branch our pipeline is activated. It first builds an environment with the neccesary requirements to run the application. This includes node, npm and our packages. After the environment has been set our tests are ran.
 
 ---
+## Installation Guide
+### Website
+
+1. Clone repositary
+2. Open index.html
+
+### Test modules
+1. Install Node and npm
+2. run `npm install`
+3. run  `npm test`
