@@ -29,7 +29,7 @@
 
 ---
 
-## *Collaboration methods:*
+## *Collaboration Tools:*
 
 1. Google Collab
 
