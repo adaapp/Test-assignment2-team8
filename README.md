@@ -8,13 +8,13 @@
 
 To understand when we have reached the end of the project as a team, we have set clear objectives that need to be met within the given time:
 
-- create a functioning Celsius to Fahrenheit Converter,
-- Write automated unit tests,
-- Use collaboration frameworks,
-- write code reviews,
-- create a well documented README file,
-- UI is tested manually and with Accessibility Audit Tools,
-- write automated tests including a smoke test
+- Create a functioning Celsius to Fahrenheit Converter
+- Write automated unit tests
+- Use collaboration frameworks
+- Write code reviews
+- Create a well documented README file
+- UI is tested manually and with Accessibility Audit Tools
+- Write automated tests including a smoke test
 
 These are the main aspects of this project which relates to the steps system development life cycle; system planning. system design, implementation, system testing and integration. 
 
