@@ -171,6 +171,14 @@ Continuous Integration is the practise of developers frequently committing and i
 The purpose of an integration test is to dicover errors of the interaction between different units.
 Whenever there is a pull request or commit to the main branch our pipeline is activated. It first builds an environment with the neccesary requirements to run the application. This includes node, npm and our packages. After the environment has been set our tests are ran.
 
+### Coverage Report 
+
+A coverage report gives a report on how much of your code is being assessed. It can be useful when adding
+many new functions and you would like to measure and make sure a certain amount of your code is being tested before being merged.
+
+Here is an example of our coverage report on a html page
+
+![Coverage](https://user-images.githubusercontent.com/52491921/119031667-3f6f5200-b9a3-11eb-8c40-812dd83d6a12.png)
 ---
 ## *Installation Guide*
 ### Website
