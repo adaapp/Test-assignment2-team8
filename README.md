@@ -10,13 +10,15 @@
 
 To understand when we have reached the end of the project as a team, we have set clear objectives that need to be met within the given time:
 
-- Create a functioning Celsius to Fahrenheit Converter
-- Write automated unit tests
-- Use collaboration frameworks
-- Write code reviews
-- Create a well documented README file
-- UI is tested manually and with Accessibility Audit Tools
-- Write automated tests including a smoke test
+- Software developers must create a functioning temperature converter using code that convert from celcius to fahrenheit/fahrenheit to celcius with regular support and feedback from tech consultants 
+- Temperature converter must be user friendly where colour, style and font size is taken into consideration
+- Testers must write automated tests including a smoke test on all code to meet quality standards before deployment 
+- All code must have comments to explain the functionality of the code
+- All members must collaboratively work using collaboration frameworks (GitHub)
+- All members must write code reviews :the reviewer checks that the change has not broken accessibility and other audits by testing the UI manually and with Accessibility Audit Tools
+- Tech consultants must create a well documented README file collaboratively, with regular feedback for improvement 
+- All feedback given by reviewer must be acted on by the person who initially made the request
+
 
 These are the main aspects of this project which relates to the steps in system development life cycle; system planning, system design, implementation, system testing and integration. 
 
