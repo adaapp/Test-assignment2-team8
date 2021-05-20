@@ -19,7 +19,7 @@
         <button class="form__button" type="submit">To Fahrenheit!</button>
         </div>
     </form>
-    <div class="Fahrenheit"></div>
+    <div class="Fahrenheit"></div>       <!-- This div will show our result -->
     <form class="celsiusForm">
         <label class="form" for="numeral">Fahrenheit to Celsius</label>
         <div class="form__row">
@@ -27,29 +27,29 @@
         <button class="form__button" type="submit">To Celsius!</button>
         </div>
     </form>
-    <div class="Celsius"></div>
+    <div class="Celsius"></div>   <!-- This div will show our result -->
     </main>
 <script src="index.js"></script>
 <script>
-    const form = document.querySelector('.fahrenheitForm');
+    const form = document.querySelector('.fahrenheitForm');    
     const result = document.querySelector('.Fahrenheit');
     result.style.display = 'none';
-    form.addEventListener('submit', function(e) {
+    form.addEventListener('submit', function(e) {      //using form information to call function
         e.preventDefault();
         var userInput = e.target[0].value;
-        var fahren = celsiusToFahrenheit(userInput);
-        result.textContent = fahren;
+        var fahren = celsiusToFahrenheit(userInput);        //call function
+        result.textContent = fahren;     //display content
         result.style.display = 'block';
     });
 
     const formCel = document.querySelector('.celsiusForm');
     const resultCel = document.querySelector('.Celsius');
     resultCel.style.display = 'none';
-    formCel.addEventListener('submit', function(e) {
+    formCel.addEventListener('submit', function(e) {              //using form information to call function
         e.preventDefault();
         var userInput = e.target[0].value;
-        var celsius = fahrenheitToCelsius(userInput);
-        resultCel.textContent = celsius;
+        var celsius = fahrenheitToCelsius(userInput);         //call function
+        resultCel.textContent = celsius;                         //display content
         resultCel.style.display = 'block';
 });
 </script>
