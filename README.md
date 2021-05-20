@@ -1,8 +1,48 @@
-# Test-assignment2-team8
+# Team 8's project
 
 ## *Our Project!*
 
 - <span style="color:#8AB6CF"> A simple and easy to use Celcius to Fahrenheit converter 🌡️</span>
+
+---
+## *Workflow:*
+
+- Decided upon our means of communication: GChat, GitHub, separate google meet
+- Accessed suggestion options for project 
+    - Decided on what our purpose would be 
+    -  Target audience: People that enjoy cooking and baking
+- Team strengths and weaknesses: 
+    - Assigned roles - ¾ Tech Consultant Pathway
+    - Tasks related to those roles: Decided to split in half and have two people working on README and two to be developers 
+        - Discussed if anyone needed any extra support 
+- Agreed upon using issues as a way of giving tasks
+- Worked through each point through the assessment spec and went into breakout rooms to work separately
+- End of Friday call (30/04/21) - discussed further actions we needed to take and availability
+- Made a list of all the tasks that needed to be completed
+- Friday (30/04/21) to Saturday (15/05/21): Communicaation using GChat and GitHub (through pull requests)
+- Saturday (15/05/21)
+    - Worked on what had been completed, on an individual basis, since Friday (30/04/21) and what we could do in the 1.5 hrs
+    - Agreed upon tasks for the next week - i.e. making README as clear as possible and improving the README
+    - Arranged another means of communication: WhatsApp
+- Decided to have 1 final call together the day before submission (15/05/21)
+- Reviewed improvements
+- All agreed to submit assignment
+
+Areas to improve for workflow:
+- Deciding upon definition of done right at the start of project
+- Using WhatsApp as means of communication from the start of the project
+- Schedule for when certain issues should have been completed by
+- Kanban would be more effective
+
+### Adding a new feature
+1. Create Issue
+2. Assign Issue to developer
+3. Complete issue
+4. Commit and Push work to new branch
+5. Pull Request and assign reviewers
+6. Code Review & Integration Tests(Github Actions)
+7. Merge Pull Request
+8. Close Issue
 
 ---
 
