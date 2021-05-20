@@ -243,3 +243,22 @@ Here is an example of our coverage report on a html page
 2. run `npm install`
 3. run  `npm test`
 
+---
+## *Evaluation:*
+As a team we have been able to produce a good product as per the objectives. Some examples of this are:
+
+- Creating a clean/responsive website 
+- Write well written code with error handling
+- Tests tested functionality of our code 
+- Integration tests running and passing on our continuous integration pipeline
+- Chosen to set a feature of the converter to be able to take inputted values of max 2 decimals
+
+
+Although our converter does function well, the product could be improved. 
+
+The areas of improvement that we have discussed as a team would be:
+- To extend the capability of the converter to be able to produce an input and output  value of upto 4 decimals places to make the product more accessible to a wider audience
+- The colours and design of the converter could be more engaging to link to the purpose of the user who may be using the product for cooking/baking purposes 
+- The converter title style and text should be more creative and user friendly as accessibility shown in the audit tools to be 80, which we like to improve to 90
+- The output pop up box should be smaller to align with the design features of the input box to maintain consistency 
+- A margin should be placed between the input and output box for easy read purposes 
