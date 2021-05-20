@@ -44,6 +44,15 @@ Areas to improve for workflow:
 7. Merge Pull Request
 8. Close Issue
 
+### Coding Best Practices:
+- Descriptive variable names
+- Common standards:
+    - Capitalisation:
+    Camel casing i.e. toBeCloseTo
+    - Indentation
+- Comments on code describing functions
+- Wrote readable yet efficient code
+
 ---
 
 ## *Definition of done :*
