@@ -2,7 +2,8 @@
 
 ## *Our Project!*
 
-- <span style="color:#8AB6CF"> A simple and easy to use Celcius to Fahrenheit converter 🌡️</span>
+- <span style="color:#8AB6CF"> A simple and easy to use Celcius to Fahrenheit converter 🌡️
+- For people that love to cook and bake and need an easy to use temperature converter when using recipes! </span>
 
 ---
 ## *Workflow:*
@@ -241,3 +242,4 @@ Here is an example of our coverage report on a html page
 1. Install Node and npm
 2. run `npm install`
 3. run  `npm test`
+
